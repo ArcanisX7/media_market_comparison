@@ -1,0 +1,4 @@
+Metrika,Shapiro normalita,Nenormální weby,Min. Shapiro p,Kruskal H,Kruskal p,Výsledek
+Real users,Problém,sport.cz,0.0071,60.3905,0.0,Významný rozdíl
+ATS [s],OK,-,0.0541,15.9824,0.0003,Významný rozdíl
+Views per real user,OK,-,0.0767,9.6213,0.0081,Významný rozdíl
